@@ -19,6 +19,12 @@ The purpose is **not to recover exact instrument-grade spectral data**, but to c
 
 This repository therefore functions as a **small, self-contained spectral test program** rather than a measurement tool.
 
+Change log:
+
+| Date       | Description                             |
+|------------|-----------------------------------------|
+| 2026-05-03 | First import |
+
 ## Purpose
 
 - Approximate **illuminant spectral power distribution (SPD)** from a Sekonic C-700 screenshot.
