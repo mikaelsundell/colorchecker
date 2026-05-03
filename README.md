@@ -120,3 +120,27 @@ Files:
 This project demonstrates how approximate real-world spectral data can be
 combined with measured reflectance and standard observer functions to construct
 a complete, inspectable colorimetric pipeline.
+
+## License
+
+### Code
+This project’s source code is licensed under the BSD 3-Clause License.
+
+### Data & Attribution
+
+- **Sekonic C-700 (derived data)**  
+  Spectral data is manually digitized from Sekonic C-700 screenshots.  
+  © Sekonic Corporation.  
+  Not official data; provided for educational and validation purposes only.  
+  This project is not affiliated with Sekonic.
+
+- **CIE Color Matching Functions (CVRL)**  
+  Source: http://cvrl.ucl.ac.uk/  
+  Used for research/educational purposes with attribution.
+
+- **ColorChecker Reflectance (BabelColor)**  
+  Source: https://babelcolor.com/colorchecker-2.htm  
+  © BabelColor. Used with attribution.
+
+### Note
+Users are responsible for complying with the original data providers’ terms when reusing this material.
